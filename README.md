@@ -7,5 +7,5 @@ Target is one of the world’s most recognized brands and one of America’s lea
 1. We have used BigQuery(SQL) to study the data stored across multiple tables.
 2. We have used Tableau for creating plots to communicate the business insights and recommendations.
 3. We have uploaded 2 pdf files:
-      A. targetSQL_bizCase_complete.pdf: Contains the entire business case with plots, figures and reasoning behind our conclusions.
-      B. targetSQL_queries.pdf: Contains just the SQL queries.
+    - targetSQL_bizCase_complete.pdf: Contains the entire business case with plots, figures and reasoning behind our conclusions.
+    - targetSQL_queries.pdf: Contains just the SQL queries.
